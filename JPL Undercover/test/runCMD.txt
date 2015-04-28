@@ -1,0 +1,11 @@
+d1
+java -jar JPL.jar terrainS0C0R10_100.pgm terrainS0C0R10_100_500by500_dem.raw
+
+d2
+java -jar JPL.jar terrainS4C0R10_100.pgm terrainS4C0R10_100_500by500_dem.raw
+
+d3
+java -jar JPL.jar terrainS4C4R10_100.pgm terrainS4C4R10_100-500by500_dem.raw
+
+d4
+java -jar JPL.jar terrainS4C4R20_100.pgm terrainS4C4R20_100-500by500_dem.raw
